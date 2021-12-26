@@ -1,0 +1,31 @@
+[Tue Oct 17 21:09:25.987513 2017] [mpm_winnt:notice] [pid 4280:tid 380] AH00455: Apache/2.4.6 (Win32) PHP/5.4.17 configured -- resuming normal operations
+[Tue Oct 17 21:09:26.966569 2017] [mpm_winnt:notice] [pid 4280:tid 380] AH00456: Apache Lounge VC10 Server built: Jul 16 2013 11:15:41
+[Tue Oct 17 21:09:26.966569 2017] [core:notice] [pid 4280:tid 380] AH00094: Command line: 'F:\\Server/apache2/bin/httpd_usbwv8.exe -d F:/Server/apache2'
+[Tue Oct 17 21:09:27.521601 2017] [mpm_winnt:notice] [pid 4280:tid 380] AH00418: Parent: Created child process 8300
+[Tue Oct 17 21:09:34.902023 2017] [mpm_winnt:notice] [pid 8300:tid 396] AH00354: Child: Starting 64 worker threads.
+[Tue Oct 17 21:09:35.214041 2017] [:error] [pid 8300:tid 916] [client ::1:59070] PHP Notice:  Undefined index: cidade in F:\\Server\\root\\pages\\previsao\\tempo.php on line 18
+[Tue Oct 17 21:09:35.268044 2017] [:error] [pid 8300:tid 916] [client ::1:59070] PHP Notice:  Undefined variable: numerocidade in F:\\Server\\root\\pages\\previsao\\tempo.php on line 35
+[Tue Oct 17 21:09:35.402052 2017] [:error] [pid 8300:tid 916] [client ::1:59070] PHP Warning:  simplexml_load_file(http://servicos.cptec.inpe.br/XML/cidade//previsao.xml): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found\r\n in F:\\Server\\root\\pages\\previsao\\tempo.php on line 35
+[Tue Oct 17 21:09:35.403052 2017] [:error] [pid 8300:tid 916] [client ::1:59070] PHP Warning:  simplexml_load_file(): I/O warning : failed to load external entity &quot;http://servicos.cptec.inpe.br/XML/cidade//previsao.xml&quot; in F:\\Server\\root\\pages\\previsao\\tempo.php on line 35
+[Tue Oct 17 21:09:35.427053 2017] [:error] [pid 8300:tid 916] [client ::1:59070] PHP Notice:  Undefined index: numero in F:\\Server\\root\\pages\\php\\arduino.php on line 4
+[Tue Oct 17 21:09:35.438054 2017] [:error] [pid 8300:tid 916] [client ::1:59070] PHP Notice:  Undefined index: id in F:\\Server\\root\\index.php on line 188
+[Tue Oct 17 21:09:35.438054 2017] [:error] [pid 8300:tid 916] [client ::1:59070] PHP Notice:  Undefined index: id in F:\\Server\\root\\index.php on line 190
+[Tue Oct 17 21:09:35.438054 2017] [:error] [pid 8300:tid 916] [client ::1:59070] PHP Notice:  Undefined index: nome in F:\\Server\\root\\index.php on line 196
+[Tue Oct 17 21:09:35.438054 2017] [:error] [pid 8300:tid 916] [client ::1:59070] PHP Notice:  Undefined index: id in F:\\Server\\root\\index.php on line 202
+[Tue Oct 17 21:09:35.438054 2017] [:error] [pid 8300:tid 916] [client ::1:59070] PHP Notice:  Undefined index: id in F:\\Server\\root\\index.php on line 204
+[Tue Oct 17 21:09:35.438054 2017] [:error] [pid 8300:tid 916] [client ::1:59070] PHP Notice:  Undefined index: nome in F:\\Server\\root\\index.php on line 212
+[Tue Oct 17 21:09:35.438054 2017] [:error] [pid 8300:tid 916] [client ::1:59070] PHP Notice:  Undefined index: id in F:\\Server\\root\\index.php on line 258
+[Tue Oct 17 21:09:35.438054 2017] [:error] [pid 8300:tid 916] [client ::1:59070] PHP Notice:  Undefined index: id in F:\\Server\\root\\index.php on line 260
+[Tue Oct 17 21:09:35.439054 2017] [:error] [pid 8300:tid 916] [client ::1:59070] PHP Notice:  Undefined index: nome in F:\\Server\\root\\index.php on line 268
+[Tue Oct 17 21:09:35.449055 2017] [:error] [pid 8300:tid 916] [client ::1:59070] PHP Notice:  Undefined index: id in F:\\Server\\root\\index.php on line 298
+[Tue Oct 17 21:09:35.449055 2017] [:error] [pid 8300:tid 916] [client ::1:59070] PHP Notice:  Undefined index: id in F:\\Server\\root\\index.php on line 298
+[Tue Oct 17 21:09:35.449055 2017] [:error] [pid 8300:tid 916] [client ::1:59070] PHP Notice:  Undefined index: id in F:\\Server\\root\\index.php on line 298
+[Tue Oct 17 21:09:35.449055 2017] [:error] [pid 8300:tid 916] [client ::1:59070] PHP Notice:  Undefined index: id in F:\\Server\\root\\index.php on line 298
+[Tue Oct 17 21:09:35.449055 2017] [:error] [pid 8300:tid 916] [client ::1:59070] PHP Notice:  Undefined index: id in F:\\Server\\root\\index.php on line 298
+[Tue Oct 17 21:09:35.449055 2017] [:error] [pid 8300:tid 916] [client ::1:59070] PHP Notice:  Undefined index: id in F:\\Server\\root\\index.php on line 298
+[Tue Oct 17 21:09:36.457112 2017] [:error] [pid 8300:tid 916] [client ::1:59070] PHP Notice:  Undefined index: cidade in F:\\Server\\root\\index.php on line 406
+[Tue Oct 17 21:09:37.434168 2017] [:error] [pid 8300:tid 916] [client ::1:59070] PHP Notice:  Undefined index: nome in F:\\Server\\root\\index.php on line 530
+[Tue Oct 17 21:09:37.434168 2017] [:error] [pid 8300:tid 916] [client ::1:59070] PHP Notice:  Undefined index: nome in F:\\Server\\root\\index.php on line 538
+[Tue Oct 17 21:09:37.434168 2017] [:error] [pid 8300:tid 916] [client ::1:59070] PHP Notice:  Undefined index: email in F:\\Server\\root\\index.php on line 556
+[Tue Oct 17 21:09:37.434168 2017] [:error] [pid 8300:tid 916] [client ::1:59070] PHP Notice:  Undefined index: email in F:\\Server\\root\\index.php on line 564
+[Tue Oct 17 21:09:37.434168 2017] [:error] [pid 8300:tid 916] [client ::1:59070] PHP Notice:  Undefined index: telefone in F:\\Server\\root\\index.php on line 582

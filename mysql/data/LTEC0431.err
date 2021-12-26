@@ -1,0 +1,48 @@
+2017-02-22 10:24:47 3632 [Note] Plugin 'FEDERATED' is disabled.
+2017-02-22 10:24:50 3632 [Note] InnoDB: The InnoDB memory heap is disabled
+2017-02-22 10:24:50 3632 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2017-02-22 10:24:50 3632 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2017-02-22 10:24:50 3632 [Note] InnoDB: Not using CPU crc32 instructions
+2017-02-22 10:24:50 3632 [Note] InnoDB: Initializing buffer pool, size = 128.0M
+2017-02-22 10:24:50 3632 [Note] InnoDB: Completed initialization of buffer pool
+2017-02-22 10:24:52 3632 [Note] InnoDB: Highest supported file format is Barracuda.
+2017-02-22 10:24:53 3632 [Note] InnoDB: The log sequence numbers 1626134 and 1626134 in ibdata files do not match the log sequence number 1626666 in the ib_logfiles!
+2017-02-22 10:24:53 3632 [Note] InnoDB: Database was not shutdown normally!
+2017-02-22 10:24:53 3632 [Note] InnoDB: Starting crash recovery.
+2017-02-22 10:24:53 3632 [Note] InnoDB: Reading tablespace information from the .ibd files...
+2017-02-22 10:24:56 3632 [Note] InnoDB: Restoring possible half-written data pages 
+2017-02-22 10:24:56 3632 [Note] InnoDB: from the doublewrite buffer...
+2017-02-22 10:25:01 3632 [Note] InnoDB: 128 rollback segment(s) are active.
+2017-02-22 10:25:01 3632 [Note] InnoDB: Waiting for purge to start
+2017-02-22 10:25:01 3632 [Note] InnoDB: 5.6.13 started; log sequence number 1626666
+2017-02-22 10:25:01 3632 [Note] Server hostname (bind-address): '*'; port: 3307
+2017-02-22 10:25:01 3632 [Note] IPv6 is available.
+2017-02-22 10:25:01 3632 [Note]   - '::' resolves to '::';
+2017-02-22 10:25:01 3632 [Note] Server socket created on IP: '::'.
+2017-02-22 10:25:24 3632 [Note] Event Scheduler: Loaded 0 events
+2017-02-22 10:25:24 3632 [Note] E:\Server/mysql/bin/mysqld_usbwv8.exe: ready for connections.
+Version: '5.6.13'  socket: ''  port: 3307  MySQL Community Server (GPL)
+2017-02-22 11:02:33 4004 [Note] Plugin 'FEDERATED' is disabled.
+2017-02-22 11:02:33 4004 [Note] InnoDB: The InnoDB memory heap is disabled
+2017-02-22 11:02:33 4004 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2017-02-22 11:02:33 4004 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2017-02-22 11:02:33 4004 [Note] InnoDB: Not using CPU crc32 instructions
+2017-02-22 11:02:33 4004 [Note] InnoDB: Initializing buffer pool, size = 128.0M
+2017-02-22 11:02:33 4004 [Note] InnoDB: Completed initialization of buffer pool
+2017-02-22 11:02:33 4004 [Note] InnoDB: Highest supported file format is Barracuda.
+2017-02-22 11:02:33 4004 [Note] InnoDB: The log sequence numbers 1626134 and 1626134 in ibdata files do not match the log sequence number 1626676 in the ib_logfiles!
+2017-02-22 11:02:33 4004 [Note] InnoDB: Database was not shutdown normally!
+2017-02-22 11:02:33 4004 [Note] InnoDB: Starting crash recovery.
+2017-02-22 11:02:33 4004 [Note] InnoDB: Reading tablespace information from the .ibd files...
+2017-02-22 11:02:33 4004 [Note] InnoDB: Restoring possible half-written data pages 
+2017-02-22 11:02:33 4004 [Note] InnoDB: from the doublewrite buffer...
+2017-02-22 11:02:35 4004 [Note] InnoDB: 128 rollback segment(s) are active.
+2017-02-22 11:02:35 4004 [Note] InnoDB: Waiting for purge to start
+2017-02-22 11:02:35 4004 [Note] InnoDB: 5.6.13 started; log sequence number 1626676
+2017-02-22 11:02:35 4004 [Note] Server hostname (bind-address): '*'; port: 3307
+2017-02-22 11:02:35 4004 [Note] IPv6 is available.
+2017-02-22 11:02:35 4004 [Note]   - '::' resolves to '::';
+2017-02-22 11:02:35 4004 [Note] Server socket created on IP: '::'.
+2017-02-22 11:02:40 4004 [Note] Event Scheduler: Loaded 0 events
+2017-02-22 11:02:40 4004 [Note] E:\Server/mysql/bin/mysqld_usbwv8.exe: ready for connections.
+Version: '5.6.13'  socket: ''  port: 3307  MySQL Community Server (GPL)

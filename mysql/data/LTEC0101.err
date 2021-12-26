@@ -1,0 +1,4 @@
+2017-10-11 09:24:16 4628 [Note] Plugin 'FEDERATED' is disabled.
+2017-10-11 09:24:18 4628 [Note] InnoDB: The InnoDB memory heap is disabled
+2017-10-11 09:24:18 4628 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2017-10-11 09:24:18 4628 [Note] InnoDB: Compressed tables use zlib 1.2.3
